@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .fitness one-word domains from Uni
 
 **Public extract:** 8,973 rows · **Live catalog:** 8,973 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/fitness`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | cloud.fitness     | resell    | —         | —             | 70             | 59     | 5      | Porkbun LLC      |
 | gold.fitness      | premium   | $1,040    | $1,040        | 72             | 48     | 4      | namecheap        |
 | block.fitness     | available | $54.98    | —             | 68             | 37     | 5      | namecheap        |
-| better.fitness    | resell    | —         | —             | 110            | 56     | 6      | GoDaddy.com, LLC |
+| better.fitness    | resell    | —         | —             | 110            | 54     | 6      | GoDaddy.com, LLC |
 | only.fitness      | premium   | $250      | $250          | 110            | 46     | 4      | name.com         |
 | terminal.fitness  | available | $9.99     | $52.99        | 104            | 36     | 8      | name.com         |
 | shop.fitness      | resell    | —         | —             | 78             | 54     | 4      | 1API GmbH        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
