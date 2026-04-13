@@ -73,16 +73,16 @@ print(df.head())
 | dark.fitness      | available | $9.99     | $52.99        | 52             | 40     | 4      | name.com         |
 | get.fitness       | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC      |
 | athletics.fitness | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap        |
-| gather.fitness    | available | $9.99     | $52.99        | 96             | 38     | 6      | name.com         |
-| free.fitness      | resell    | —         | —             | 88             | 59     | 4      | GoDaddy.com, LLC |
-| trade.fitness     | premium   | $42.90    | $42.90        | 116            | 50     | 5      | namecheap        |
-| student.fitness   | available | $54.98    | —             | 78             | 37     | 7      | namecheap        |
+| gather.fitness    | available | $9.99     | $52.99        | 96             | 39     | 6      | name.com         |
 | cloud.fitness     | resell    | —         | —             | 70             | 59     | 5      | Porkbun LLC      |
+| trade.fitness     | premium   | $42.90    | $42.90        | 116            | 50     | 5      | namecheap        |
+| terminal.fitness  | available | $9.99     | $52.99        | 104            | 37     | 8      | name.com         |
+| free.fitness      | resell    | —         | —             | 88             | 57     | 4      | GoDaddy.com, LLC |
 | gold.fitness      | premium   | $1,040    | $1,040        | 72             | 48     | 4      | namecheap        |
-| block.fitness     | available | $54.98    | —             | 68             | 37     | 5      | namecheap        |
+| student.fitness   | available | $54.98    | —             | 78             | 37     | 7      | namecheap        |
 | better.fitness    | resell    | —         | —             | 110            | 54     | 6      | GoDaddy.com, LLC |
 | only.fitness      | premium   | $250      | $250          | 110            | 46     | 4      | name.com         |
-| terminal.fitness  | available | $9.99     | $52.99        | 104            | 36     | 8      | name.com         |
+| block.fitness     | available | $54.98    | —             | 68             | 37     | 5      | namecheap        |
 | shop.fitness      | resell    | —         | —             | 78             | 54     | 4      | 1API GmbH        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
