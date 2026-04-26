@@ -1,22 +1,22 @@
-# Available .FITNESS One-Word Domains (8,973)
+# Available .FITNESS One-Word Domains (11,302)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C973%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C973%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C302%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fitness one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fitness one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,302 domains** on the canonical page below.
 
-**Public extract:** 8,973 rows · **Live catalog:** 8,973 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,302 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fitness`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FITNESS one-word doma
 
 ### Files
 
-- `fitness.csv` — public CSV extract (8,973 rows)
-- `fitness.json` — public JSON extract (8,973 rows)
+- `fitness.csv` — public CSV extract (1,000 rows)
+- `fitness.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| event.fitness     | available | $54.98    | —             | 96             | 44     | 5      | namecheap        |
-| global.fitness    | resell    | —         | —             | 108            | 99     | 6      | Dynadot Inc      |
-| power.fitness     | premium   | $260      | $260          | 98             | 62     | 5      | namecheap        |
-| stock.fitness     | available | $54.98    | —             | 68             | 40     | 5      | namecheap        |
-| impact.fitness    | resell    | —         | —             | 92             | 73     | 6      | NameCheap, Inc.  |
-| live.fitness      | premium   | $250      | $250          | 108            | 56     | 4      | name.com         |
-| dark.fitness      | available | $9.99     | $52.99        | 52             | 40     | 4      | name.com         |
-| get.fitness       | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC      |
-| athletics.fitness | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap        |
-| gather.fitness    | available | $9.99     | $52.99        | 96             | 39     | 6      | name.com         |
-| cloud.fitness     | resell    | —         | —             | 70             | 59     | 5      | Porkbun LLC      |
-| trade.fitness     | premium   | $42.90    | $42.90        | 116            | 50     | 5      | namecheap        |
-| terminal.fitness  | available | $9.99     | $52.99        | 104            | 37     | 8      | name.com         |
-| free.fitness      | resell    | —         | —             | 88             | 57     | 4      | GoDaddy.com, LLC |
-| gold.fitness      | premium   | $1,040    | $1,040        | 72             | 48     | 4      | namecheap        |
-| student.fitness   | available | $54.98    | —             | 78             | 37     | 7      | namecheap        |
-| better.fitness    | resell    | —         | —             | 110            | 54     | 6      | GoDaddy.com, LLC |
-| only.fitness      | premium   | $250      | $250          | 110            | 46     | 4      | name.com         |
-| block.fitness     | available | $54.98    | —             | 68             | 37     | 5      | namecheap        |
-| shop.fitness      | resell    | —         | —             | 78             | 54     | 4      | 1API GmbH        |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| skills.fitness       | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
+| matcha.fitness       | resell    | —         | —             | 86             | 39     | 6      | Spaceship, Inc.  |
+| events.fitness       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| justin.fitness       | available | $9.99     | —             | 58             | 38     | 7      | name.com         |
+| pestcontrol.fitness  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| etc.fitness          | premium   | $82.50    | —             | 58             | 34     | 3      | name.com         |
+| WiFi.fitness         | available | $54.98    | —             | 83             | 37     | 5      | namecheap        |
+| does.fitness         | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC |
+| partners.fitness     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com         |
+| stories.fitness      | available | $9.99     | —             | 58             | 36     | 7      | name.com         |
+| has.fitness          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com         |
+| tokens.fitness       | available | $9.99     | —             | 51             | 36     | 6      | name.com         |
+| products.fitness     | premium   | $123.75   | —             | 60             | 23     | 8      | name.com         |
+| spectra.fitness      | available | $9.99     | —             | 62             | 34     | 7      | name.com         |
+| CapeCod.fitness      | premium   | $92.40    | $92.40        | 78             | 22     | 8      | namecheap        |
+| inspiration.fitness  | available | $9.99     | —             | 88             | 30     | 11     | name.com         |
+| results.fitness      | premium   | $123.75   | —             | 59             | 22     | 7      | name.com         |
+| commonground.fitness | available | $9.99     | —             | 74             | 28     | 13     | name.com         |
+| plans.fitness        | premium   | $123.75   | —             | 60             | 20     | 5      | name.com         |
+| backyard.fitness     | available | $9.99     | —             | 80             | 27     | 9      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,973-row public sample | 8,973 live domains                               |
+| 1,000-row public sample | 11,302 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
