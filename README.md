@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fitness one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,887 domains · **Median ask:** $19.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/fitness`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | events.fitness       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com                                                  |
 | WiFi.fitness         | available | $54.98    | —             | 83             | 37     | 5      | namecheap                                                 |
 | children.fitness     | resell    | —         | —             | 68             | 19     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
-| partners.fitness     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com                                                  |
+| partners.fitness     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com                                                  |
 | stories.fitness      | available | $9.99     | —             | 58             | 36     | 7      | name.com                                                  |
 | does.fitness         | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC                                          |
 | has.fitness          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com                                                  |
@@ -77,10 +77,10 @@ print(df.head())
 | toys.fitness         | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo                                                  |
 | spectra.fitness      | available | $9.99     | —             | 62             | 34     | 7      | name.com                                                  |
 | products.fitness     | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
-| inspiration.fitness  | available | $9.99     | —             | 88             | 30     | 11     | name.com                                                  |
-| results.fitness      | premium   | $123.75   | —             | 59             | 22     | 7      | name.com                                                  |
 | commonground.fitness | available | $9.99     | —             | 74             | 28     | 13     | name.com                                                  |
-| plans.fitness        | premium   | $123.75   | —             | 60             | 20     | 5      | name.com                                                  |
+| results.fitness      | premium   | $123.75   | —             | 59             | 22     | 7      | name.com                                                  |
+| inspiration.fitness  | available | $9.99     | —             | 88             | 27     | 11     | name.com                                                  |
+| plans.fitness        | premium   | $123.75   | —             | 60             | 21     | 5      | name.com                                                  |
 | backyard.fitness     | available | $9.99     | —             | 80             | 27     | 9      | name.com                                                  |
 | vacations.fitness    | premium   | $242      | $242          | 56             | 19     | 9      | namesilo                                                  |
 | trades.fitness       | available | $9.99     | —             | 71             | 26     | 6      | name.com                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
