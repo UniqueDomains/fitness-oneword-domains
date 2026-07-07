@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .fitness one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,887 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,887 domains · **Median ask:** $19.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,887 domains · **Median ask:** $21.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/fitness`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/fitness`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FITNESS one-word doma
 
 ### Files
 
-- `fitness.csv` — public CSV extract (1,000 rows)
-- `fitness.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fitness.csv`, public CSV extract (1,000 rows)
+- `fitness.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| justin.fitness       | available | $9.99     | —             | 58             | 38     | 7      | name.com                                                  |
-| matcha.fitness       | resell    | —         | —             | 86             | 39     | 6      | Spaceship, Inc.                                           |
-| events.fitness       | premium   | $123.75   | —             | 68             | 37     | 6      | name.com                                                  |
-| WiFi.fitness         | available | $54.98    | —             | 83             | 37     | 5      | namecheap                                                 |
-| children.fitness     | resell    | —         | —             | 68             | 19     | 8      | Global Domains International, Inc. DBA DomainCostClub.com |
-| partners.fitness     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com                                                  |
-| stories.fitness      | available | $9.99     | —             | 58             | 36     | 7      | name.com                                                  |
-| does.fitness         | resell    | —         | —             | 60             | 15     | 4      | GoDaddy.com, LLC                                          |
-| has.fitness          | premium   | $123.75   | —             | 60             | 26     | 3      | name.com                                                  |
-| tokens.fitness       | available | $9.99     | —             | 51             | 36     | 6      | name.com                                                  |
-| toys.fitness         | premium   | $78.54    | $78.54        | 60             | 24     | 4      | namesilo                                                  |
-| spectra.fitness      | available | $9.99     | —             | 62             | 34     | 7      | name.com                                                  |
-| products.fitness     | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
-| commonground.fitness | available | $9.99     | —             | 74             | 28     | 13     | name.com                                                  |
-| results.fitness      | premium   | $123.75   | —             | 59             | 22     | 7      | name.com                                                  |
-| inspiration.fitness  | available | $9.99     | —             | 88             | 27     | 11     | name.com                                                  |
-| plans.fitness        | premium   | $123.75   | —             | 60             | 21     | 5      | name.com                                                  |
-| backyard.fitness     | available | $9.99     | —             | 80             | 27     | 9      | name.com                                                  |
-| vacations.fitness    | premium   | $242      | $242          | 56             | 19     | 9      | namesilo                                                  |
-| trades.fitness       | available | $9.99     | —             | 71             | 26     | 6      | name.com                                                  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| christmas.fitness | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo         |
+| damn.fitness      | available | $9.99     | $52.99        | high           | low    | 4      | name.com         |
+| quiet.fitness     | available | $9.99     | —             | high           | low    | 5      | name.com         |
+| away.fitness      | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| something.fitness | available | $9.99     | —             | high           | low    | 9      | name.com         |
+| fancy.fitness     | available | $9.99     | —             | high           | low    | 5      | name.com         |
+| pardon.fitness    | available | $9.99     | —             | high           | low    | 6      | name.com         |
+| tough.fitness     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
+| gay.fitness       | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
+| ana.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| you.fitness       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| aim.fitness       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| ike.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| bear.fitness      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| ala.fitness       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ole.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| goat.fitness      | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
+| any.fitness       | premium   | $82.50    | —             | high           | medium | 3      | name.com         |
+| avon.fitness      | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| make.fitness      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 3 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .fitness extension. The set ranges from direct dictionary words such as limit.fitness and history.fitness to more unusual options like anxiolytic.fitness. For founders, the best picks are usually the words that are easy to say, easy to spell, and naturally connected to training, wellness, coaching, or performance. For investors, the key test is whether the word has broad commercial use inside fitness and still leaves room at the current ask. With a median ask of 19.72, price discipline is less about stretch and more about avoiding weak-fit words that narrow buyer demand.
+This list covers one-word .fitness domain names, including short everyday words like half.fitness, christmas.fitness, okay.fitness, and beauty.fitness. With 11,887 domains in this set, the .fitness extension offers a wide range of brandable, memorable names for fitness, wellness, and lifestyle projects. Median asking price sits near $21, keeping most of these domains within reach for early-stage testing. When comparing these domains, look at word length, everyday recognizability, and renewal cost before committing to a name.
 
-- Favor words with clear fitness relevance or flexible wellness use
-- Check spelling and spoken clarity before valuing brandability
-- Broad terms usually keep more buyer depth than niche wording
-- Avoid words that feel off-category, awkward, or hard to explain
+- 11,887 one-word .fitness domain names in this selection
+- Median asking price near $21 — accessible for most budgets
+- Everyday words like half, quiet, and beauty aid recall
+- Weigh renewal costs and brandability before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
