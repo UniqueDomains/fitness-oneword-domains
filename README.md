@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fitness one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,708 domains · **Median ask:** $14.48 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/fitness`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| christmas.fitness | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo         |
-| damn.fitness      | available | $9.99     | $52.99        | high           | low    | 4      | name.com         |
-| quiet.fitness     | available | $9.99     | —             | high           | low    | 5      | name.com         |
-| away.fitness      | available | $9.99     | —             | high           | low    | 4      | name.com         |
-| something.fitness | available | $9.99     | —             | high           | low    | 9      | name.com         |
-| fancy.fitness     | available | $9.99     | —             | high           | low    | 5      | name.com         |
-| pardon.fitness    | available | $9.99     | —             | high           | low    | 6      | name.com         |
-| tough.fitness     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
-| gay.fitness       | premium   | $242      | $242          | high           | medium | 3      | namesilo         |
-| ana.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| you.fitness       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
-| aim.fitness       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| ike.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| bear.fitness      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| ala.fitness       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| ole.fitness       | available | $9.99     | —             | high           | low    | 3      | name.com         |
-| goat.fitness      | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
-| any.fitness       | premium   | $82.50    | —             | high           | medium | 3      | name.com         |
-| alar.fitness      | available | $3.48     | $54.98        | low            | low    | 4      | namecheap        |
-| make.fitness      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 3 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ana.fitness  | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| you.fitness  | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.  |
+| aim.fitness  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| ike.fitness  | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| bear.fitness | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| ala.fitness  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ole.fitness  | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| goat.fitness | resell    | —         | —             | medium         | medium | 4      | GoDaddy.com, LLC |
+| any.fitness  | premium   | $82.50    | —             | high           | medium | 3      | name.com         |
+| alar.fitness | available | $3.48     | $54.98        | low            | low    | 4      | namecheap        |
+| make.fitness | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 3 |
+| bag.fitness  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| arse.fitness | available | $3.48     | $54.98        | low            | low    | 4      | namecheap        |
+| paul.fitness | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| beg.fitness  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| avon.fitness | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| play.fitness | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| bud.fitness  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| away.fitness | available | $9.99     | —             | high           | low    | 4      | name.com         |
+| ring.fitness | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FITNESS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
