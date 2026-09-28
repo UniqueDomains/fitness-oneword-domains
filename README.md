@@ -1,10 +1,10 @@
-# Available .FITNESS One-Word Domains (22,633)
+# Available .FITNESS One-Word Domains (23,139)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C633%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C139%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .fitness one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,633 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,139 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,633 domains · **Median ask:** $12.90 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,139 domains · **Median ask:** $12.94 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/fitness`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ixc.fitness     | available | $3.48     | $54.98        | medium         | low    | 3      | namecheap         |
+| cdp.fitness     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
 | angel.fitness   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 20 |
 | ano.fitness     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
-| prc.fitness     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
+| ixc.fitness     | available | $3.48     | $54.98        | medium         | low    | 3      | namecheap         |
 | brave.fitness   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 44 |
 | biz.fitness     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| sic.fitness     | available | $3.48     | $54.98        | high           | low    | 3      | namecheap         |
+| mla.fitness     | available | $2.79     | $33.32        | high           | low    | 3      | spaceship         |
 | green.fitness   | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC  |
 | cap.fitness     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| vhs.fitness     | available | $3.48     | $54.98        | high           | low    | 3      | namecheap         |
+| nes.fitness     | available | $8.50     | —             | high           | low    | 3      | unstoppable       |
 | shark.fitness   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
 | dim.fitness     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| adad.fitness    | available | $8.99     | $41.99        | medium         | low    | 4      | namesilo          |
+| prc.fitness     | available | $8.99     | $41.99        | high           | low    | 3      | namesilo          |
 | reborn.fitness  | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.   |
 | dis.fitness     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
-| aged.fitness    | available | $9.99     | $52.99        | high           | low    | 4      | name.com          |
+| sic.fitness     | available | $3.48     | $54.98        | high           | low    | 3      | namecheap         |
 | wisdom.fitness  | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 19 |
 | fab.fitness     | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap         |
-| ahab.fitness    | available | $3.48     | $54.98        | medium         | low    | 4      | namecheap         |
+| vhs.fitness     | available | $3.48     | $54.98        | high           | low    | 3      | namecheap         |
 | harmony.fitness | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 9  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,633 live domains                        |
+| 1,000-row public sample | 23,139 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
