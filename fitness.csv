@@ -2,7 +2,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 911c206a-b1a2-45e2-a6f7-924b66076ba5,dateless.fitness,available,9.99,52.99,medium,low,8,name.com,,,13/08/2026 18:42
 2dde8dbc-4c09-41d9-bdf2-027afbd52a45,isentropic.fitness,available,3.48,54.98,medium,low,10,namecheap,,,22/08/2026 10:44
 788823f7-8ad0-436b-8d0c-4f885c5840da,abadan.fitness,available,8.99,41.99,medium,low,6,namesilo,,,16/09/2026 13:48
-1a6fdaec-06dd-48fc-8f88-0a01820fb777,approaches.fitness,available,5.57,34.46,high,low,10,dynadot,,,28/09/2026 06:41
+1a6fdaec-06dd-48fc-8f88-0a01820fb777,approaches.fitness,available,8.99,41.99,high,low,10,namesilo,,,01/10/2026 16:38
+ceb9bb24-cc6a-48ea-b7ef-caae49571834,iww.fitness,available,2.79,33.32,medium,low,3,spaceship,,,02/10/2026 05:22
 1e6a3e1d-196c-4436-a9be-477a32344cbf,abelian.fitness,available,8.99,41.99,high,low,7,namesilo,,,29/09/2026 08:39
 cc7bd4d6-6b67-4b92-ae21-6390bc751ce6,trailing.fitness,available,2.79,33.32,medium,low,8,spaceship,,,29/09/2026 02:21
 f5982106-e7e1-46a6-b8de-a437829a735e,felicitous.fitness,available,3.48,54.98,medium,low,10,namecheap,,,18/08/2026 00:51
@@ -37,6 +38,7 @@ da9f2ffc-d765-42e3-b862-ada7b55ba125,sublingual.fitness,available,3.48,54.98,med
 d8f8d8c2-01be-4085-88ed-45600e80cd08,oddball.fitness,available,3.48,54.98,high,low,7,namecheap,,,14/08/2026 23:25
 3010d641-41f1-4f33-85a0-12d2e8631008,wolves.fitness,available,2.79,33.32,medium,low,6,spaceship,,,28/09/2026 04:21
 8c5241f2-2bd8-45b1-a05a-3aff423d57ed,bantu.fitness,available,3.48,54.98,medium,low,5,namecheap,,,08/08/2026 14:50
+dc4d8821-7c05-4ebe-8617-21470f3eb455,morrow.fitness,available,2.79,33.32,high,low,6,spaceship,,,01/10/2026 20:41
 c942a873-0ea8-4851-b30f-287244ae694d,avaritia.fitness,available,8.99,41.99,medium,low,8,namesilo,,,21/09/2026 08:46
 1049025c-cac5-4711-b54c-933417d18bbb,rocking.fitness,available,8.99,41.99,high,low,7,namesilo,,,28/09/2026 15:55
 09d1eee4-9c4b-43e8-b47f-1ce6bed53f81,seditious.fitness,available,3.48,54.98,medium,low,9,namecheap,,,22/08/2026 01:29
@@ -67,6 +69,7 @@ a794951e-5e9d-4cb1-bbfa-64e19a15e188,sighs.fitness,available,8.99,41.99,medium,l
 3ed44d78-3a56-4eae-993a-954193172091,quarters.fitness,available,2.79,33.32,high,low,8,spaceship,,,30/09/2026 03:03
 34595e95-14e4-4344-a212-15b54b68aa25,parks.fitness,available,8.5,,high,low,5,unstoppable,,,30/09/2026 06:26
 c802a2de-aef5-4140-a894-534429ac8743,sadly.fitness,available,3.48,54.98,medium,low,5,namecheap,,,14/09/2026 11:52
+756f236b-d49d-48c7-9004-60c53453d320,decaying.fitness,available,8.5,,medium,low,8,unstoppable,,,01/10/2026 06:00
 816245dd-095d-4514-a00b-b76b235c9353,camisole.fitness,available,8.99,41.99,high,low,8,namesilo,,,24/09/2026 11:52
 2f16f235-8397-493b-a17e-8099bd3b3aa0,transcripts.fitness,available,2.79,33.32,medium,low,11,spaceship,,,30/09/2026 16:19
 6ba6c878-ff9f-4ac0-9e38-e26562ed45fb,readings.fitness,available,8.99,41.99,medium,low,8,namesilo,,,28/09/2026 23:42
@@ -79,6 +82,7 @@ a74b6077-c84d-4082-9f22-49b30f630356,bailor.fitness,available,3.48,54.98,medium,
 f113a04c-b005-406a-ade5-b97782d7a3a9,unusual.fitness,available,8.99,41.99,high,low,7,namesilo,,,28/09/2026 01:29
 8499d9f9-0c3e-472c-a043-7fd9ac4def69,stormy.fitness,available,9.99,52.99,medium,low,6,name.com,,,28/09/2026 01:11
 7020561f-b377-4f8c-b040-1d75d26c875a,breastless.fitness,available,3.48,54.98,medium,low,10,namecheap,,,11/08/2026 03:14
+924284d2-9d7b-451e-b1cf-a8d42de6cc1f,vax.fitness,available,5.57,34.46,high,low,3,dynadot,,,02/10/2026 02:08
 b3b408e9-84bc-48ef-8158-7c3bfcc5c346,considering.fitness,available,3.48,54.98,medium,low,11,namecheap,,,26/09/2026 03:06
 bb57bcc3-227d-4f50-bded-d25a57622d71,baobab.fitness,available,3.48,54.98,medium,low,6,namecheap,,,17/09/2026 06:21
 4728e533-1105-4850-b85e-50c3b9d775ba,proteins.fitness,available,3.48,54.98,medium,low,8,namecheap,,,08/09/2026 07:13
@@ -106,6 +110,7 @@ e2ea73f2-4bf6-499f-b68a-e5d802e447db,hangover.fitness,available,32.2,32.2,high,l
 31db40be-dacc-44b0-8792-5c21454047a3,nefarious.fitness,available,3.48,54.98,medium,low,9,namecheap,,,03/09/2026 14:57
 146d36b9-d888-4f89-960c-f7aa08bcf994,indonesian.fitness,premium,78.54,78.54,high,low,10,namesilo,,,22/08/2026 03:20
 cd72caba-6128-4d20-8b8b-e82afddcfe92,badges.fitness,available,8.5,,medium,low,6,unstoppable,,,29/09/2026 17:33
+162010eb-90bd-4bd6-9a53-a7eb2ee6d544,jennie.fitness,available,5.66,33.47,medium,low,6,porkbun,,,01/10/2026 23:59
 1291765f-2705-4e6d-aac1-0edaa2eac220,arch.fitness,available,8.99,41.99,high,medium,4,namesilo,,,22/09/2026 07:38
 f3a5295c-0f20-4a21-b80b-22056d3d34c0,tipperary.fitness,available,8.99,41.99,medium,low,9,namesilo,,,29/09/2026 09:36
 968af716-d14e-485f-b487-19e48061e46d,sophistication.fitness,available,9.99,,high,low,14,name.com,,,
@@ -114,6 +119,7 @@ f3a5295c-0f20-4a21-b80b-22056d3d34c0,tipperary.fitness,available,8.99,41.99,medi
 1ae6d39e-c9f6-4f44-8b10-fd8d0cc17a6a,unwise.fitness,available,3.48,54.98,medium,low,6,namecheap,,,12/09/2026 22:42
 25e588d1-a476-4154-8b8b-e85a053b3d1d,agreements.fitness,available,3.48,54.98,medium,low,10,namecheap,,,17/09/2026 03:09
 6891e9a3-faab-41b1-90eb-87b3c6262bd8,crustacean.fitness,available,3.48,54.98,high,low,10,namecheap,,,13/08/2026 09:19
+5648309e-6115-4081-b898-d93ee1f19d1c,herat.fitness,available,2.79,33.32,medium,low,5,spaceship,,,01/10/2026 19:57
 898357fe-c9f1-4f00-bef6-9ef0dedb0c7c,demoralize.fitness,available,3.48,54.98,medium,low,10,namecheap,,,13/08/2026 02:16
 d063c4ab-ede3-4175-8808-5cf8442747d5,selections.fitness,available,3.48,54.98,medium,low,10,namecheap,,,20/09/2026 10:53
 d5831a4f-6903-4e0b-8b07-63b6e04fb436,endogenic.fitness,available,3.48,54.98,medium,low,9,namecheap,,,17/08/2026 01:13
@@ -124,11 +130,13 @@ b9137ef0-9da3-44d4-97ec-c8a301ebff29,ambergris.fitness,available,8.99,41.99,medi
 1b66d40a-aa9f-4438-9a1d-cb43ac1bd477,spike.fitness,available,8.99,41.99,high,low,5,namesilo,,,19/09/2026 15:31
 0a895ab5-56f2-432b-819b-02ee9ea0285f,orthoptic.fitness,available,3.48,54.98,medium,low,9,namecheap,,,04/09/2026 18:06
 46991744-f3a1-450a-b082-a79f29a07219,answers.fitness,available,3.48,54.98,medium,low,7,namecheap,,,25/09/2026 18:18
+00d00c9d-5744-4b19-a4a9-7603d1704476,ivf.fitness,available,5.57,34.46,high,low,3,dynadot,,,02/10/2026 01:26
+0dbe32ac-818c-4496-8132-17ea5d5560ad,constructing.fitness,available,32.2,32.2,high,low,12,cloudflare,,,01/10/2026 22:46
 0c200a23-e34a-4252-b45f-8da1987b4407,submerged.fitness,available,3.48,54.98,medium,low,9,namecheap,,,10/09/2026 23:30
 d9ee48d8-c9f7-4c3c-bdbd-bf9d9fab78bf,misguided.fitness,available,3.48,54.98,medium,low,9,namecheap,,,21/08/2026 18:57
 8597bf93-620d-4856-9ba6-df1c4ca22cb4,andrea.fitness,available,9.99,52.99,high,low,6,name.com,,,25/09/2026 13:32
 91ba4c13-7ae6-4b55-aba1-b42e0af0a168,chichi.fitness,available,3.48,54.98,high,low,6,namecheap,,,12/08/2026 04:46
-7f5fab56-051a-4132-b81a-72aef04aa101,everbody.fitness,available,9.99,,medium,low,8,name.com,,,
+7f5fab56-051a-4132-b81a-72aef04aa101,everbody.fitness,available,32.2,32.2,medium,low,8,cloudflare,,,02/10/2026 04:42
 722458d1-0c0d-4aec-ae43-9cdecdf5964b,raced.fitness,available,32.2,32.2,high,low,5,cloudflare,,,30/09/2026 00:22
 bc06807d-08c4-4574-a567-fc4c003f1bcd,spongy.fitness,available,3.48,54.98,medium,low,6,namecheap,,,10/09/2026 16:24
 927743f8-5bee-4586-b1e9-7a5208bc442a,metabolous.fitness,available,3.48,54.98,medium,low,10,namecheap,,,24/08/2026 21:28
@@ -142,16 +150,19 @@ a1df84b1-f744-46dc-8696-2163497fd827,acrobates.fitness,available,8.99,41.99,medi
 6013ff41-2cee-4131-bc5b-be401085dfce,cauterize.fitness,available,3.48,54.98,high,low,9,namecheap,,,11/08/2026 14:34
 b09232b5-a3f0-401e-be2d-fb4bb3048a2b,archduke.fitness,available,8.99,41.99,medium,low,8,namesilo,,,20/09/2026 01:54
 87274757-b83e-46f8-bc07-13bfc8586b17,shahn.fitness,available,8.99,41.99,high,low,5,namesilo,,,23/09/2026 07:28
+c76a59f1-a7ec-47a5-922c-fcdb7c232ae4,cpp.fitness,available,8.99,41.99,high,low,3,namesilo,,,01/10/2026 12:13
 5a348b3b-0011-4bb6-8b71-67534b93a9db,lunchboxes.fitness,available,8.99,41.99,medium,low,10,namesilo,,,21/09/2026 09:13
 6af4583d-ed67-407d-9b6d-c9ab98b66aa1,controlled.fitness,available,3.48,54.98,high,low,10,namecheap,,,23/09/2026 22:39
 d531d3e6-567f-4a9a-9860-988249681e47,ballroom.fitness,available,2.79,33.32,high,low,8,spaceship,,,29/09/2026 00:49
 e5a5273d-cedd-436e-951e-526ea89cc407,basset.fitness,available,8.99,41.99,medium,low,6,namesilo,,,22/09/2026 12:10
-7a7cb264-bbb8-4f60-9b9b-1e5f5c1cea34,savings.fitness,available,5.66,33.47,high,low,7,porkbun,,,30/09/2026 07:09
+7a7cb264-bbb8-4f60-9b9b-1e5f5c1cea34,savings.fitness,available,8.99,41.99,high,low,7,namesilo,,,02/10/2026 01:13
 f41324cc-9aa3-462b-b11b-f40ce47fd8ad,flyaway.fitness,available,3.48,54.98,medium,low,7,namecheap,,,18/08/2026 08:13
 92e2c1b5-426a-4ffb-9c82-3b0ef4aa1a5b,voltaic.fitness,available,3.48,54.98,medium,low,7,namecheap,,,18/08/2026 19:42
 e55b870b-f954-4586-bdd6-fe86abbe6444,busy.fitness,available,8.99,41.99,high,low,4,namesilo,,,23/09/2026 12:11
 29facefa-9cc3-4827-a108-440b499400e3,technological.fitness,available,8.5,,medium,low,13,unstoppable,,,29/09/2026 02:31
 f463f271-5ad5-4b61-a1fa-27aef5009bcf,freelancer.fitness,available,5.66,33.47,high,low,10,porkbun,,,28/09/2026 07:52
+764820cb-3768-4c53-a72e-ce17cb86890e,unspeakable.fitness,available,8.99,41.99,medium,low,11,namesilo,,,01/10/2026 05:49
+062d5a5c-eb12-47d0-88de-d7dceaab074b,bluegrass.fitness,available,8.99,41.99,high,low,9,namesilo,,,02/10/2026 04:05
 75ff1a5f-0e4f-4650-90a9-a0ee1b8417b5,univalent.fitness,available,3.48,54.98,medium,low,9,namecheap,,,12/09/2026 14:00
 c3134558-6b1b-441e-bbad-9047e129c9cf,irritate.fitness,available,2.79,33.32,medium,low,8,spaceship,,,29/09/2026 14:40
 b9c3f063-76a4-45f5-91db-8a8b906c97bd,moore.fitness,available,32.2,32.2,high,low,5,cloudflare,,,27/09/2026 13:11
@@ -160,6 +171,7 @@ c05df31e-8e39-4bf7-8ead-17a91f58b35b,herald.fitness,available,8.99,41.99,high,lo
 4228df1f-aec0-4140-87ea-af083bc0b26d,toasted.fitness,available,3.48,54.98,high,low,7,namecheap,,,11/09/2026 16:35
 83532bd6-1e65-45f9-a5dd-0b3c12c458c4,neilson.fitness,available,32.2,32.2,medium,low,7,cloudflare,,,29/09/2026 22:20
 bcce9a15-ab64-41ea-9c5e-55e08c628d8e,numinous.fitness,available,3.48,54.98,medium,low,8,namecheap,,,03/09/2026 23:01
+9ba178e8-37d9-45cc-bb26-27e2e2a5a4f5,statisticians.fitness,available,5.57,34.46,low,low,13,dynadot,,,01/10/2026 18:33
 b14bd5fe-da0e-4a36-9c02-77f75350df5f,vitalizer.fitness,available,3.48,54.98,high,low,9,namecheap,,,19/09/2026 09:10
 ce339183-f583-407d-af4e-337aec8f9310,ucla.fitness,available,3.48,54.98,high,low,4,namecheap,,,25/09/2026 15:03
 3f35373c-8599-44ea-afec-72cf57d2209c,dallas.fitness,premium,128.7,128.7,high,low,6,namecheap,,,25/09/2026 04:35
@@ -177,7 +189,7 @@ eaf41f08-b725-4e83-a134-156b23daf66c,rodent.fitness,available,5.57,34.46,medium,
 171bdb37-4f89-4231-9a3c-dd90b8572af4,skinless.fitness,available,3.48,54.98,medium,low,8,namecheap,,,10/09/2026 09:42
 a64d6544-c15e-428f-8ff1-7873d7067c33,comedians.fitness,available,8.99,41.99,medium,low,9,namesilo,,,19/09/2026 23:33
 eeb2f423-b7f7-4f5c-8ae0-61a4c28ef9c8,vigilance.fitness,available,8.99,41.99,high,low,9,namesilo,,,18/09/2026 05:28
-f65a1dd6-6b09-4c2b-9fb6-a0ee86a00630,informative.fitness,available,9.99,,high,low,11,name.com,,,
+f65a1dd6-6b09-4c2b-9fb6-a0ee86a00630,informative.fitness,available,2.79,33.32,high,low,11,spaceship,,,01/10/2026 21:44
 ef8cd3b2-4f43-4912-bb5c-7df05a8ae6ca,tabloid.fitness,available,2.79,33.32,high,low,7,spaceship,,,01/10/2026 03:59
 3e650fbd-4a52-4e3f-b4e1-3f5651ac9ced,panoptic.fitness,available,3.48,54.98,medium,low,8,namecheap,,,
 9af6465f-07ff-40fa-8a45-48a1668e223b,charms.fitness,available,2.79,33.32,medium,low,6,spaceship,,,29/09/2026 10:30
@@ -188,6 +200,7 @@ aab938ce-4ef3-41a9-b7e9-6c9f0eb443e4,sail.fitness,available,3.48,54.98,high,low,
 4e05786b-a146-4cad-a33b-2227791c3120,boney.fitness,available,3.48,54.98,medium,low,5,namecheap,,,10/08/2026 18:44
 01832a68-b6e3-47a1-99c6-c3974f42f3b9,superheroes.fitness,available,8.99,41.99,medium,low,11,namesilo,,,21/09/2026 05:42
 ffac6196-6358-4862-ac3c-1f790999b45e,scream.fitness,available,3.48,54.98,high,low,6,namecheap,,,27/09/2026 18:35
+d35d155f-a6e4-4d01-a3fb-b55f4f63f27c,collectives.fitness,available,2.79,33.32,medium,low,11,spaceship,,,02/10/2026 02:49
 d8004223-b55b-4866-b634-aa19ff4c7601,incoming.fitness,available,3.48,54.98,high,low,8,namecheap,,,22/08/2026 01:44
 4baf53e0-df18-4865-95f7-cac9af3b4503,screech.fitness,available,3.48,54.98,high,low,7,namecheap,,,09/09/2026 23:57
 990df25d-27ae-429d-8c0e-768c3b634982,monitored.fitness,available,2.79,33.32,medium,low,9,spaceship,,,29/09/2026 10:56
@@ -231,6 +244,7 @@ e7275318-0185-47e1-a31f-d47f48502000,route.fitness,available,8.99,41.99,high,low
 30d66743-3c61-40f1-a877-bdc86fa9a1bd,biz.fitness,premium,78.54,78.54,high,low,3,namesilo,,,23/09/2026 23:18
 5aeac711-0aa3-435c-a87f-290e3897d2a9,detail.fitness,available,5.57,34.46,high,low,6,dynadot,,,29/09/2026 14:10
 f8179b6a-9788-401d-bf4c-bfab0f7b4d54,forlorn.fitness,available,3.48,54.98,medium,low,7,namecheap,,,18/08/2026 12:02
+884b24e9-7955-435c-b1f8-0d4b60a37e78,arya.fitness,available,2.79,33.32,high,low,4,spaceship,,,01/10/2026 11:19
 00640b8c-70a0-4ace-9b1a-87fd51057a4b,pope.fitness,available,5.66,33.47,high,low,4,porkbun,,,28/09/2026 20:19
 0247ebbf-5e57-4d90-8374-e9c9b8c9dbb2,albedo.fitness,available,3.48,54.98,high,low,6,namecheap,,,18/09/2026 02:30
 34325963-f36d-4567-94c6-94a8d1a96e4a,gangling.fitness,available,3.48,54.98,medium,low,8,namecheap,,,18/08/2026 20:08
@@ -245,6 +259,7 @@ f8179b6a-9788-401d-bf4c-bfab0f7b4d54,forlorn.fitness,available,3.48,54.98,medium
 aed6c65c-a6cf-4a56-8b55-e3c3f51c436a,libraries.fitness,available,8.99,41.99,medium,low,9,namesilo,,,20/09/2026 00:02
 14355316-069c-4cc8-85c6-dc26bd7188b7,unreasonable.fitness,available,8.99,41.99,medium,low,12,namesilo,,,29/09/2026 08:45
 1a11b8ee-47d7-4cb1-a313-a3351aa897cd,sichuan.fitness,available,8.5,,medium,low,7,unstoppable,,,28/09/2026 15:21
+a47aea17-1aa2-4a90-8180-370d86d9e14d,distributing.fitness,available,2.79,33.32,medium,low,12,spaceship,,,01/10/2026 15:49
 868d0741-1c78-4aa8-aec2-3cf43071e06b,assisting.fitness,available,5.57,34.46,high,low,9,dynadot,,,29/09/2026 14:47
 64a652d6-e5e7-4597-a733-8e22685bb217,haines.fitness,available,8.99,41.99,medium,low,6,namesilo,,,28/09/2026 04:08
 4c4d53cb-2cd2-4c8c-a649-54ef87e259a3,unthankful.fitness,available,3.48,54.98,medium,low,10,namecheap,,,11/09/2026 12:29
@@ -304,6 +319,7 @@ a80f75ff-2750-4328-9795-93dd4d1ba600,language.fitness,available,8.99,41.99,high,
 c346e4d9-a5ac-4526-922b-77a7737becf3,junctions.fitness,available,3.48,54.98,medium,low,9,namecheap,,,27/09/2026 03:20
 d050c7d0-3b52-4589-977c-5329fbd198d5,bossy.fitness,available,3.48,54.98,medium,low,5,namecheap,,,07/08/2026 19:35
 ecd86b18-53e2-4d11-bd7f-ed52b034c7bb,shameless.fitness,available,3.48,54.98,medium,low,9,namecheap,,,10/09/2026 05:53
+18a2158d-de18-4142-84ea-28076ecdbb33,dla.fitness,available,8.5,,high,low,3,unstoppable,,,01/10/2026 11:00
 8daf85ca-c3ea-443b-ae90-13e781147e94,machines.fitness,available,5.57,34.46,high,low,8,dynadot,,,01/10/2026 04:58
 491eea97-9112-45ed-b41d-af672d910851,mla.fitness,available,2.79,33.32,high,low,3,spaceship,,,28/09/2026 03:26
 3573a4d1-1319-49d4-bbb9-00f810d42533,filipino.fitness,premium,78.54,78.54,high,low,8,namesilo,,,18/08/2026 04:19
@@ -339,6 +355,7 @@ cfcc5b21-ebde-4779-aa6d-b55cda8d3641,lxxi.fitness,available,3.48,54.98,medium,lo
 5be4e56e-7dbc-4bb3-b641-1e008e483d11,devotions.fitness,available,8.99,41.99,medium,low,9,namesilo,,,20/09/2026 02:07
 fb467bde-fdd6-4508-8971-b3486ea8e161,compressor.fitness,available,2.79,33.32,high,low,10,spaceship,,,30/09/2026 16:45
 2176d8e3-f377-4562-8244-1df0afbfcd70,birling.fitness,available,3.48,54.98,medium,low,7,namecheap,,,23/09/2026 20:48
+0886d95e-9023-4090-b2e1-dc1ebb40753f,lenz.fitness,available,8.99,41.99,medium,low,4,namesilo,,,02/10/2026 03:05
 e3323a80-701c-4bc9-8f26-b51471090f0f,juries.fitness,available,2.79,33.32,low,low,6,spaceship,,,30/09/2026 07:25
 9b0142eb-6389-4b08-9155-91b130646fba,anger.fitness,available,8.5,,medium,low,5,unstoppable,,,28/09/2026 21:24
 d4130afa-beb4-42d6-9bdd-68a65a777eab,failed.fitness,available,9.99,,medium,low,6,name.com,,,
@@ -353,12 +370,14 @@ e8159868-fa22-4fa0-83ab-a5b1a4fceea4,prostyle.fitness,available,3.48,54.98,mediu
 4b0b6b63-c78b-4e9b-8bc2-5a29c800f34f,rollicking.fitness,available,3.48,54.98,medium,low,10,namecheap,,,12/08/2026 18:08
 f1fc98f6-197e-46a6-ab42-3f0ec1fffd78,wiper.fitness,available,8.99,41.99,high,low,5,namesilo,,,24/09/2026 17:39
 65372d1e-0277-4c30-9bfa-0775459297d8,adrift.fitness,available,3.48,54.98,medium,low,6,namecheap,,,
+7cf6ca6e-936b-4afc-aa6e-3e458b3ce160,norah.fitness,available,8.99,41.99,medium,low,5,namesilo,,,01/10/2026 08:13
 22d82bee-7270-4afb-a934-5dd747ae8057,incurably.fitness,available,3.48,54.98,medium,low,9,namecheap,,,15/09/2026 07:45
 e560636d-9bd2-4f51-9026-8a61b049d303,agaric.fitness,available,8.99,41.99,medium,low,6,namesilo,,,17/09/2026 16:17
 27b475e9-0dd1-4d72-8a93-fe483de5f139,barbette.fitness,available,8.99,41.99,medium,low,8,namesilo,,,22/09/2026 04:54
 c82163f7-12ef-4584-84cb-bfb1b56f9be3,aril.fitness,available,8.99,41.99,medium,low,4,namesilo,,,20/09/2026 05:30
 448ba81b-d8b4-4e76-9fbe-998b6830beb0,koranic.fitness,available,3.48,54.98,medium,low,7,namecheap,,,22/08/2026 16:59
 4708ca26-293f-4b15-b3d3-2e04180bad97,precipitous.fitness,available,9.99,,medium,low,11,name.com,,,
+a1f8ed73-3089-4ae8-b004-a126382fdad5,yehuda.fitness,available,32.2,32.2,medium,low,6,cloudflare,,,01/10/2026 09:59
 9b620ecc-ec67-4a1b-8b75-0482849e2761,perth.fitness,premium,78.54,78.54,high,low,5,namesilo,,,26/09/2026 00:00
 029382e0-86c1-468a-979a-61662b7a7de6,santa.fitness,available,8.5,,high,low,5,unstoppable,,,29/09/2026 19:01
 4e1cea95-ebe3-4de2-bcc1-0a03e8896f40,pores.fitness,available,8.99,41.99,low,low,5,namesilo,,,30/09/2026 14:43
@@ -375,7 +394,6 @@ f25b53e1-90ba-4293-9afb-d0b4787551c7,rhiannon.fitness,available,9.99,,high,low,8
 45180f18-8db1-4a18-9796-c44f5203ec0c,hereby.fitness,available,3.48,54.98,medium,low,6,namecheap,,,15/09/2026 00:25
 f6a19b01-cc38-48ce-9a7f-6ddaa80815c1,jared.fitness,available,8.99,41.99,high,low,5,namesilo,,,27/09/2026 11:10
 0894aba5-fe7a-4ab5-ab91-7e526baf5b0d,aeriform.fitness,available,3.48,54.98,medium,low,8,namecheap,,,
-ca532418-dc64-497b-8e1a-9ea5e7b1d556,kinder.fitness,available,,,high,medium,6,,,,
 410125b3-79a4-499a-b2db-075d79c9de7c,assert.fitness,available,32.2,32.2,high,low,6,cloudflare,,,29/09/2026 14:01
 d411fdbe-b2b6-4d72-9985-d305b0fecbd6,soup.fitness,available,2.79,33.32,high,low,4,spaceship,,,30/09/2026 11:33
 cc293413-37ce-4e73-9e24-2001e2dde882,disharmony.fitness,available,8.99,41.99,medium,low,10,namesilo,,,24/09/2026 22:38
@@ -385,10 +403,12 @@ cc293413-37ce-4e73-9e24-2001e2dde882,disharmony.fitness,available,8.99,41.99,med
 1887878b-5156-4dcb-ab55-0ebdd5176396,deceived.fitness,available,32.2,32.2,low,low,8,cloudflare,,,29/09/2026 23:13
 b1826cc8-9f92-4e98-9658-b4665d5f4cac,kamehameha.fitness,available,8.99,41.99,medium,low,10,namesilo,,,30/09/2026 12:36
 b4dc826b-f28b-4ff0-bde4-7ddc1288259d,sic.fitness,available,3.48,54.98,high,low,3,namecheap,,,16/09/2026 01:41
-78b87880-4a31-4e00-b990-163fd4a86c5c,peeking.fitness,available,9.99,,high,low,7,name.com,,,
+78b87880-4a31-4e00-b990-163fd4a86c5c,peeking.fitness,available,8.99,41.99,high,low,7,namesilo,,,02/10/2026 01:04
 a177107a-49fb-474a-82ce-b86224d75283,upmarket.fitness,available,3.48,54.98,high,low,8,namecheap,,,12/09/2026 23:13
 d699e561-2aa4-48cb-aed0-7d22802a4eaf,skinny.fitness,premium,118.8,118.8,high,low,6,namesilo,,,12/08/2026 04:01
 0e9d8f3c-6434-4c5c-ae43-dd5379367f88,charmed.fitness,available,3.48,54.98,high,low,7,namecheap,,,09/08/2026 09:57
+067e8a0e-cca6-4658-9330-11b48adaec9b,miley.fitness,available,8.99,41.99,medium,low,5,namesilo,,,01/10/2026 10:18
+d6b56136-bf83-4a59-a3e3-be7d10fab87e,holton.fitness,available,5.66,33.47,medium,low,6,porkbun,,,01/10/2026 16:52
 c8fddd7f-2d39-4f01-8a5a-1b52c60aebdb,peppermint.fitness,available,8.99,41.99,high,low,10,namesilo,,,01/10/2026 01:57
 278e1d4d-de4b-40f5-b630-fc74fb435ec0,elkhart.fitness,available,32.2,32.2,medium,low,7,cloudflare,,,30/09/2026 13:59
 df790a05-eb73-40b7-9618-131118ff0922,nilotic.fitness,available,3.48,54.98,medium,low,7,namecheap,,,03/09/2026 17:26
@@ -401,6 +421,7 @@ fd48bd6d-8085-410b-a35c-af47a11d18e0,lemony.fitness,available,3.48,54.98,high,lo
 d32256c6-129c-44f2-b370-e683cd0d8274,implication.fitness,available,2.79,33.32,medium,low,11,spaceship,,,29/09/2026 22:52
 e94a7099-29b0-4739-9820-8e7c542c323a,unintended.fitness,available,3.48,54.98,medium,low,10,namecheap,,,12/09/2026 13:30
 c3694433-da27-4a6a-a55c-935f202c784d,answered.fitness,available,8.99,41.99,high,low,8,namesilo,,,25/09/2026 16:54
+0eda3bac-1d1e-4cd7-8dd7-e5bdc4dfef8f,masculinity.fitness,available,3.48,54.98,high,low,11,namecheap,,,02/10/2026 01:23
 09bd2c96-ae21-44fc-a60f-691839cb9820,nettlesome.fitness,available,3.48,54.98,medium,low,10,namecheap,,,
 43e55719-7967-445f-a5c5-1d41df6e340e,kota.fitness,available,7.99,63.99,high,low,4,godaddy,,,30/09/2026 02:06
 d8106588-2a1f-4560-9706-fca0d2d93d0b,cortlandt.fitness,available,2.79,33.32,medium,low,9,spaceship,,,30/09/2026 22:25
@@ -409,6 +430,7 @@ f0a9b98f-833d-4c08-98fb-8cf264542b8b,flu.fitness,premium,85.8,85.8,high,low,3,na
 1ebbb199-42b8-4e21-83b9-841805b2354d,modest.fitness,available,8.99,41.99,high,low,6,namesilo,,,25/09/2026 06:33
 97492678-eaab-4523-b6a3-7ef40f7b8e04,hunan.fitness,available,8.99,41.99,medium,low,5,namesilo,,,28/09/2026 10:07
 8fe6fe6a-bce5-423e-b28f-e1bf5d516ed6,scoffing.fitness,available,3.48,54.98,medium,low,8,namecheap,,,22/08/2026 12:43
+1628a279-a722-4f43-a59f-1ee91fe6518c,lundy.fitness,available,32.2,32.2,medium,low,5,cloudflare,,,01/10/2026 11:45
 d6214c91-d67b-4d56-a290-526e058b124d,worrisome.fitness,available,3.48,54.98,medium,low,9,namecheap,,,14/08/2026 13:21
 8d7c713f-57f3-4886-83a6-532044f6a831,earnings.fitness,available,2.79,33.32,high,low,8,spaceship,,,29/09/2026 18:43
 40f09fe2-0238-443a-b452-0dd9648be23c,downer.fitness,available,3.48,54.98,medium,low,6,namecheap,,,14/08/2026 02:41
@@ -428,10 +450,12 @@ eaad923f-a963-4ed6-bda5-d70ccc8d1933,amphibian.fitness,available,3.48,54.98,high
 3ce7c9f2-fbab-48aa-87ef-7604770880f7,apologise.fitness,available,8.99,41.99,high,low,9,namesilo,,,30/09/2026 15:07
 e43b9762-5f92-460f-90a5-8daba83ebc69,packages.fitness,available,9.99,52.99,medium,low,8,name.com,,,19/09/2026 00:23
 42a7ed8e-777c-4d53-87e1-980743c2f8c2,magically.fitness,available,3.48,54.98,high,low,9,namecheap,,,13/09/2026 21:17
+6aad14cb-45f6-4dec-9912-a4fd4b390048,reputed.fitness,available,2.79,33.32,medium,low,7,spaceship,,,01/10/2026 06:05
 8efc0875-3224-4c00-acf4-71d7861e3bf8,hydraulic.fitness,available,3.48,54.98,high,low,9,namecheap,,,21/08/2026 16:17
 3c2c498c-dc3f-443d-b49f-9611f474d17e,overeat.fitness,available,3.48,54.98,medium,low,7,namecheap,,,23/09/2026 17:26
 c65e7909-3c53-4dbf-9b29-ef6b7eabb315,lutecium.fitness,available,8.99,41.99,medium,low,8,namesilo,,,20/09/2026 23:39
 32b7b948-bfa5-47ca-b8f0-88ff2df5bc54,lynne.fitness,available,8.99,41.99,medium,low,5,namesilo,,,28/09/2026 08:09
+3a44b33d-3b3d-4097-a53e-f42757803935,looting.fitness,available,2.79,33.32,medium,low,7,spaceship,,,01/10/2026 20:22
 28ae3888-d682-42ae-83d3-8f1c3f7fba34,august.fitness,available,8.99,41.99,high,low,6,namesilo,,,22/09/2026 12:44
 583803db-4fad-488e-bbba-a72f068a0dd0,parkes.fitness,available,8.99,41.99,medium,low,6,namesilo,,,29/09/2026 22:23
 34fb4688-6486-4950-99f9-dee6d77e1917,resolutely.fitness,available,3.48,54.98,medium,low,10,namecheap,,,14/09/2026 11:12
@@ -465,7 +489,9 @@ e2e48c10-52c6-444d-8889-c93c4975f167,hoary.fitness,available,3.48,54.98,medium,l
 c1266046-4397-40fe-aa0c-2d61e8ae7799,prc.fitness,available,8.99,41.99,high,low,3,namesilo,,,25/09/2026 22:08
 8bb1a671-8d2a-48ff-b56d-75ca59865638,astounded.fitness,available,8.99,41.99,high,low,9,namesilo,,,22/09/2026 03:42
 4dbd310a-ff2e-4b32-a2b3-943838bb0b16,notability.fitness,available,3.48,54.98,high,low,10,namecheap,,,03/09/2026 22:04
+fa437916-ed90-4180-a147-b5aeefbcc873,pleases.fitness,available,8.5,,medium,low,7,unstoppable,,,02/10/2026 02:57
 560b83db-a19a-4d2f-a0c9-1324de4b1a88,trackless.fitness,available,3.48,54.98,medium,low,9,namecheap,,,08/09/2026 10:29
+257791d8-e514-4230-a4bf-8613b2b8e5bc,compounds.fitness,available,2.79,33.32,medium,low,9,spaceship,,,01/10/2026 15:18
 70040158-de6a-4d96-b60e-a8b5b585b46e,undefined.fitness,available,3.48,54.98,high,low,9,namecheap,,,12/09/2026 07:13
 90093bf6-f915-4ddd-af6f-bbfeb1bf732a,alejandro.fitness,available,3.48,54.98,high,low,9,namecheap,,,28/09/2026 07:52
 f7bd5c5a-0b07-4a22-b5cb-80247e98ec3b,coa.fitness,available,2.79,33.32,high,low,3,spaceship,,,29/09/2026 14:33
@@ -486,6 +512,7 @@ f19b36fe-887e-43f3-ae07-d6816dd48725,nighttime.fitness,available,8.99,41.99,high
 af8a75e2-cc33-4967-8916-a3e303d207c4,liaoning.fitness,available,8.99,41.99,medium,low,8,namesilo,,,30/09/2026 13:11
 2c3c7ae0-3c1c-46a2-bb9b-6a1508bc32ba,sunderland.fitness,available,8.99,41.99,high,low,10,namesilo,,,28/09/2026 03:08
 41a2755b-217c-422f-91c0-d80184098f65,alarming.fitness,available,3.48,54.98,medium,low,8,namecheap,,,
+1dea8b76-70e3-4253-b18b-6f52e5bc24ff,dbs.fitness,available,8.99,41.99,high,low,3,namesilo,,,01/10/2026 10:18
 27b2d702-f6b9-464b-a6dc-dcd86f35f039,saute.fitness,available,3.48,54.98,high,low,5,namecheap,,,09/09/2026 22:00
 47d3a6cc-596c-439f-b672-fc16c3ed3df7,allometric.fitness,available,3.48,54.98,medium,low,10,namecheap,,,
 368e0731-a913-43e2-b23d-fff6927938e0,rollercoaster.fitness,available,9.99,,high,low,14,name.com,,,
@@ -499,7 +526,7 @@ b93a9d4c-6149-44d7-bfd8-f91441f7b94c,claus.fitness,available,8.99,41.99,medium,l
 958327f8-a22b-4fab-a276-7c41b441838b,crisply.fitness,available,3.48,54.98,high,low,7,namecheap,,,14/09/2026 09:37
 0f2288e0-34a3-4ed2-95d7-b6ccb7ef9816,amative.fitness,available,3.48,54.98,medium,low,7,namecheap,,,
 d543ac38-a49c-4117-bb53-f5ca5117bcf4,turnpike.fitness,available,8.5,,high,low,8,unstoppable,,,30/09/2026 18:58
-f46812bf-bc95-4783-a95e-e2303b5290bb,xoxoxo.fitness,available,9.99,,high,low,6,name.com,,,
+f46812bf-bc95-4783-a95e-e2303b5290bb,xoxoxo.fitness,available,2.79,33.32,high,low,6,spaceship,,,02/10/2026 03:06
 bfbe1ac2-4f7f-488f-aa8b-899bc0f89a86,sisal.fitness,available,8.99,41.99,medium,low,5,namesilo,,,17/09/2026 16:39
 b3f2efc0-699e-4d1b-b6fa-0bc91bd0b9ea,design.fitness,premium,34.36,34.36,high,medium,6,spaceship,,,28/09/2026 09:12
 c8b74571-e509-4a1a-8a9a-114d3802337c,anticipate.fitness,available,8.99,41.99,high,low,10,namesilo,,,30/09/2026 15:05
@@ -582,6 +609,7 @@ d439a5b5-312d-4359-8f2f-c5135c31c3f0,classy.fitness,available,3.48,54.98,high,lo
 928b4941-4354-463b-85f0-6802c2e44a1e,hypertension.fitness,available,32.2,32.2,medium,low,12,cloudflare,,,30/09/2026 06:11
 04b161f0-be01-48fe-9fd8-b94ba8817520,caesium.fitness,available,8.99,41.99,medium,low,7,namesilo,,,20/09/2026 23:16
 70f1ffcc-cb0a-48bf-b458-c4068ddc2b4e,producers.fitness,available,8.99,41.99,medium,low,9,namesilo,,,28/09/2026 23:09
+80c0aeb9-0eee-4f90-8b01-96fbb0f0f4f2,stench.fitness,available,8.5,,medium,low,6,unstoppable,,,02/10/2026 04:49
 fb3ed43e-c29b-4154-a5bc-6e16a0440432,clarion.fitness,available,3.48,54.98,high,low,7,namecheap,,,12/08/2026 09:38
 2e9a7411-9b25-43d7-8393-054dd614bc2a,cookie.fitness,available,2.79,33.32,high,low,6,spaceship,,,29/09/2026 11:31
 36cc3cfc-cf7d-43bf-8ff1-7a035f5bec4e,glossary.fitness,available,8.5,,high,low,8,unstoppable,,,29/09/2026 20:53
@@ -601,6 +629,7 @@ eb7092c6-e55c-4b2c-ba16-f7781ff861a3,encouragement.fitness,available,32.2,32.2,m
 7f27b2d7-8ad8-4776-bfa8-d20b25f3c5a7,meigs.fitness,available,2.79,33.32,medium,low,5,spaceship,,,30/09/2026 05:37
 62099e08-484b-4270-a21c-f51bc307984e,abradant.fitness,available,3.48,54.98,medium,low,8,namecheap,,,
 060b6074-3359-4a68-8296-7c1cf63a815f,antarctic.fitness,available,3.48,54.98,high,low,9,namecheap,,,
+14e18064-3dca-4391-b77e-5fdb8171abc6,dpp.fitness,available,8.5,,high,low,3,unstoppable,,,01/10/2026 22:43
 c066d001-0350-412e-ab94-bfc5e8dde682,talks.fitness,available,2.79,33.32,high,low,5,spaceship,,,30/09/2026 05:32
 68dd601f-44ef-4e9b-b13b-4c740684632d,arbovirus.fitness,available,8.99,41.99,medium,low,9,namesilo,,,20/09/2026 00:52
 d74df03f-a17a-4651-9d24-1d4ede6047bf,colder.fitness,available,8.99,41.99,low,low,6,namesilo,,,29/09/2026 10:18
@@ -640,14 +669,17 @@ fcd924c7-7dd3-45ac-aa8e-f845a6b3b1c0,hundredth.fitness,available,3.48,54.98,high
 1a7a68f9-a356-4082-afae-7ee8e79d7daa,consensual.fitness,available,3.48,54.98,high,low,10,namecheap,,,12/08/2026 22:31
 87f0b787-8137-431f-aa66-7954cf19aea1,barnes.fitness,available,3.48,54.98,high,low,6,namecheap,,,25/09/2026 21:08
 1ed0481a-84d4-4ea0-8a8a-1d2e98f887e3,broadwise.fitness,available,3.48,54.98,medium,low,9,namecheap,,,14/09/2026 01:26
+893cb7ff-de7a-4931-8aee-c00a1ca3a216,beggars.fitness,available,32.2,32.2,medium,low,7,cloudflare,,,01/10/2026 17:57
 470b3256-ded9-40b3-9098-796d84ca929a,assayer.fitness,available,3.48,54.98,medium,low,7,namecheap,,,20/09/2026 15:59
 436799ae-592e-4d03-8fe5-bd8ec34223f8,shipyard.fitness,available,3.48,54.98,high,low,8,namecheap,,,30/09/2026 02:50
 71229e3a-7a09-473f-81eb-6a302725e939,lacerate.fitness,available,3.48,54.98,medium,low,8,namecheap,,,22/08/2026 17:51
 86a531d4-6f78-415a-8b1c-3a23a992aeb6,antifungal.fitness,available,3.48,54.98,medium,low,10,namecheap,,,
 4614140c-d332-4098-a5c3-eb7255b82985,miscreant.fitness,available,3.48,54.98,medium,low,9,namecheap,,,09/09/2026 14:38
 5c19ad5c-07df-4e94-8bad-74a0c5fd5008,contention.fitness,available,8.99,41.99,medium,low,10,namesilo,,,20/09/2026 04:48
+dfcaefbf-ba66-46a0-99a7-f59651d198a8,mouthpiece.fitness,available,32.2,32.2,high,low,10,cloudflare,,,01/10/2026 19:25
+20be93eb-a612-4307-88fc-2ba21d9d19db,acf.fitness,available,8.99,41.99,high,low,3,namesilo,,,01/10/2026 23:29
 1de53161-a65c-4f79-a19b-ab08a890c980,daryl.fitness,available,8.5,,medium,low,5,unstoppable,,,29/09/2026 04:03
-7a981284-4931-4ad3-86cb-dac29a36fdc1,challenging.fitness,available,9.99,,high,low,11,name.com,,,
+7a981284-4931-4ad3-86cb-dac29a36fdc1,challenging.fitness,available,8.5,,high,low,11,unstoppable,,,01/10/2026 19:37
 3c2b51b9-21f1-4640-a7d6-8c01c193cb1f,sushi.fitness,resell,,,high,low,5,,,,30/09/2026 12:37
 032bd461-5fdd-4def-a06a-a0200c72ea06,client.fitness,available,8.99,41.99,high,low,6,namesilo,,,19/09/2026 04:09
 42a42049-73ae-4db9-a8ea-e29b3ad47e1d,blazonry.fitness,available,3.48,54.98,medium,low,8,namecheap,,,24/09/2026 05:06
@@ -656,6 +688,7 @@ fbaeffaa-f993-435b-911e-a3041519291c,ledge.fitness,available,3.48,54.98,high,low
 6450bcfc-39e7-4c78-b3dd-e70ccd12bfbb,foiling.fitness,available,3.48,54.98,medium,low,7,namecheap,,,11/09/2026 15:16
 6f91b86f-c343-45ff-a752-c8eb78990575,expulsion.fitness,available,8.5,,medium,low,9,unstoppable,,,30/09/2026 01:29
 426461c8-d4a9-438f-81ce-572921795725,unfirm.fitness,available,3.48,54.98,low,low,6,namecheap,,,12/09/2026 10:19
+a0fe9e10-a897-4d8d-a180-2ac49cf5228f,nymph.fitness,available,8.99,41.99,high,low,5,namesilo,,,02/10/2026 05:21
 182f0601-ced7-4028-bd40-a7793312f314,moistly.fitness,available,3.48,54.98,low,low,7,namecheap,,,14/09/2026 10:31
 ad50c23f-43b8-4d9a-9cbf-5d0e8c38ce72,juxtaposed.fitness,available,3.48,54.98,medium,low,10,namecheap,,,22/08/2026 15:00
 9d162e33-a01a-422e-827c-e099ee39de44,reportable.fitness,available,3.48,54.98,medium,low,10,namecheap,,,09/09/2026 14:36
@@ -677,6 +710,7 @@ b69ce7ec-4536-4c14-a792-e5b8c94539e6,gasoline.fitness,available,5.66,33.47,high,
 1a0f5106-4107-44d6-af73-1c7778e7de0f,jul.fitness,premium,,,medium,low,3,,,,28/09/2026 21:44
 be73f78b-b371-4dbb-beb8-8dd5daf2ebb5,timing.fitness,available,8.99,41.99,high,low,6,namesilo,,,27/09/2026 05:40
 3753c482-0b55-4d0b-8f01-b731e582457b,eugenic.fitness,available,3.48,54.98,medium,low,7,namecheap,,,17/08/2026 14:11
+fc3f35df-7423-42cc-9d4c-a2d4308db545,flattery.fitness,available,3.48,54.98,medium,low,8,namecheap,,,02/10/2026 04:53
 c339bf9a-dbd8-4396-af1b-cb4acbc566e3,plotting.fitness,available,8.99,41.99,medium,low,8,namesilo,,,29/09/2026 05:11
 e052a452-1fa2-4cf4-af03-c26d1346ca76,organised.fitness,available,3.48,54.98,high,low,9,namecheap,,,26/09/2026 00:28
 82ed1e3d-534c-4c08-bb52-a83a2ea5a22e,tottenham.fitness,available,5.66,33.47,medium,low,9,porkbun,,,29/09/2026 22:19
@@ -685,6 +719,7 @@ e8f20b68-c49d-43a9-865c-b84b250db7f3,harmony.fitness,resell,,,high,medium,7,"Sav
 e0f430a9-f2bf-4e9f-819b-5466c513cc20,rough.fitness,available,3.48,54.98,high,low,5,namecheap,,,06/08/2026 09:39
 f557b056-7a2a-415f-84f0-5581cb1ef75e,aerolite.fitness,available,8.99,41.99,medium,low,8,namesilo,,,17/09/2026 13:06
 2ae8569a-d4e8-4987-960e-9a163babba1d,fugly.fitness,available,3.48,54.98,medium,low,5,namecheap,,,18/08/2026 17:49
+cdb95c00-1d14-46db-8d2f-5755c2f5e12e,revolves.fitness,available,8.99,41.99,medium,low,8,namesilo,,,02/10/2026 03:02
 8225912a-197d-4610-bceb-42128d778654,nostril.fitness,available,8.99,41.99,high,low,7,namesilo,,,19/09/2026 12:54
 19128091-33d1-4379-9d71-d2ce420e7699,ochre.fitness,available,3.48,54.98,high,low,5,namecheap,,,04/09/2026 00:33
 14cfea28-462b-479a-9b9b-2d6377dc1c72,voiceless.fitness,available,3.48,54.98,medium,low,9,namecheap,,,05/08/2026 23:23
@@ -697,6 +732,7 @@ e87a5c0a-373a-4ebc-b0a4-ed328b40efc5,dormitory.fitness,available,5.66,33.47,high
 5b62cc36-3890-4322-8257-48fa652f23b7,drugs.fitness,available,8.99,41.99,medium,low,5,namesilo,,,25/09/2026 16:42
 8d0b9f96-0cb7-4ac1-884f-22a3e0749a2a,reborn.fitness,resell,,,high,low,6,"Spaceship, Inc.",10/08/2026 18:04,10/08/2027 18:04,26/09/2026 08:31
 979b0086-5dc4-4c91-8406-aaab982c3e9f,late.fitness,available,3.48,54.98,high,low,4,namecheap,,,22/09/2026 19:16
+46cff57c-a8a6-4792-8b59-b96dcb2254fa,keel.fitness,available,8.99,41.99,high,low,4,namesilo,,,02/10/2026 04:16
 52a10e15-68b6-45d8-a3a5-1996fd8f9f3c,ronald.fitness,available,2.79,33.32,medium,low,6,spaceship,,,28/09/2026 11:51
 b4b575f9-cf91-4ebb-824a-e9647aea4666,taleteller.fitness,available,3.48,54.98,medium,low,10,namecheap,,,11/09/2026 10:32
 6c508d4d-7ee3-4de5-b554-7aa8efe6d95e,nat.fitness,premium,38.94,38.94,high,low,3,namesilo,,,28/09/2026 15:51
@@ -728,6 +764,7 @@ ad8cdcc6-8169-4963-a247-b9c11b536b00,meanly.fitness,available,3.48,54.98,medium,
 32922625-3ed8-495e-ba0a-25e4d2be87ad,freshman.fitness,available,3.48,54.98,high,low,8,namecheap,,,18/08/2026 05:23
 b99b1bc2-03eb-4d25-b447-981ce183858a,fag.fitness,premium,78.54,78.54,medium,low,3,namesilo,,,09/09/2026 08:03
 7d6e13e4-c677-4c69-9722-ac63e18aa418,erik.fitness,available,3.48,54.98,high,low,4,namecheap,,,25/09/2026 14:19
+59263756-d2b8-4497-9e0b-115f51813cfb,combines.fitness,available,8.99,41.99,medium,low,8,namesilo,,,02/10/2026 02:48
 11012c11-1c9c-4fa9-a819-afcd6a5c213f,loyal.fitness,available,8.99,41.99,high,low,5,namesilo,,,25/09/2026 15:30
 97b81f00-a0c0-43d4-b9cb-e59fd71bf506,october.fitness,available,2.79,33.32,high,low,7,spaceship,,,28/09/2026 02:51
 dfa4f340-3773-46c8-8ef2-52e9618c1c07,scots.fitness,available,3.48,54.98,high,low,5,namecheap,,,09/09/2026 23:33
@@ -738,7 +775,7 @@ ce3675cf-c202-4bf0-8582-0537f04dbe43,recognized.fitness,available,8.99,41.99,hig
 795ac4ca-d09d-455a-9afd-9ddc8d6905de,anasa.fitness,available,8.99,41.99,medium,low,5,namesilo,,,19/09/2026 03:09
 4911fac3-98cd-48fe-b407-b250de29e0a4,agonist.fitness,available,3.48,54.98,medium,low,7,namecheap,,,17/09/2026 18:56
 85e1df5a-c150-4c5d-ac26-5616f5170e38,tasman.fitness,available,8.99,41.99,medium,low,6,namesilo,,,16/09/2026 14:58
-fb194421-1d6f-4d9b-a196-3ae5655d1c43,backup.fitness,available,8.99,41.99,high,low,6,namesilo,,,28/09/2026 06:59
+fb194421-1d6f-4d9b-a196-3ae5655d1c43,backup.fitness,available,5.57,34.46,high,low,6,dynadot,,,01/10/2026 17:07
 d0b28fb1-e546-4418-b07d-60d52b289f88,robson.fitness,available,2.79,33.32,high,low,6,spaceship,,,28/09/2026 08:01
 c0c60220-1f03-4789-8165-3d919b0812c1,discourse.fitness,available,8.99,41.99,high,low,9,namesilo,,,23/09/2026 22:52
 f2b237f4-5d63-4e18-854c-62bc63f4240e,europeans.fitness,available,8.99,41.99,medium,low,9,namesilo,,,30/09/2026 15:43
@@ -803,6 +840,7 @@ e3330e3b-159a-420d-8cc9-e4ca927498c2,colonel.fitness,available,8.99,41.99,high,l
 19ebe0d3-93d7-4321-956a-9654537898e6,bleeding.fitness,available,8.99,41.99,high,low,8,namesilo,,,24/09/2026 05:28
 ff60c496-7f2f-4c45-8327-f693852f8f42,cynical.fitness,available,9.99,52.99,medium,low,7,name.com,,,13/08/2026 13:59
 266a1c31-e5a8-41bb-9088-b1d6861825de,risk.fitness,available,3.48,54.98,high,low,4,namecheap,,,08/09/2026 12:49
+55e4d9d5-219e-4eaa-b620-9473395f390c,cockmaster.fitness,available,5.66,33.47,low,low,10,porkbun,,,01/10/2026 07:58
 a93f77f4-b528-44c4-9ccb-cd325d2203e3,montfort.fitness,available,3.48,54.98,medium,low,8,namecheap,,,30/09/2026 01:27
 0413e53e-b267-423b-9040-da9eec7ca64a,truffle.fitness,available,8.99,41.99,high,low,7,namesilo,,,29/09/2026 08:50
 53df958b-3623-4a1b-830d-2f9e1e7730d7,girlish.fitness,available,3.48,54.98,high,low,7,namecheap,,,18/08/2026 23:59
@@ -823,6 +861,7 @@ c0cacb58-5a29-4a20-a8ac-a02e93f1c485,populated.fitness,available,3.48,54.98,high
 6354d820-0b3b-44f9-8ebe-9d7a08a10828,acousma.fitness,available,8.99,41.99,medium,low,7,namesilo,,,17/09/2026 02:29
 b79f134e-c6a3-462d-9cb6-276cfc84d4fb,gst.fitness,available,8.99,41.99,medium,low,3,namesilo,,,30/09/2026 23:01
 87e15151-88c7-4948-99c2-aa26e22d91ea,trice.fitness,available,3.48,54.98,medium,low,5,namecheap,,,22/08/2026 07:32
+b43ed84e-4d4a-4c9e-b98c-685cc135db3b,toxicology.fitness,available,3.48,54.98,high,low,10,namecheap,,,01/10/2026 21:59
 1497d0ec-abcb-4048-b63b-b564d79c21f6,athenian.fitness,available,3.48,54.98,medium,low,8,namecheap,,,07/08/2026 13:08
 e7591d37-8323-4632-8f0c-4768b13827ab,playfully.fitness,available,3.48,54.98,high,low,9,namecheap,,,15/09/2026 20:25
 34798398-2f46-47c9-83fb-93c53fd563e7,olson.fitness,available,8.99,41.99,medium,low,5,namesilo,,,27/09/2026 01:46
@@ -845,6 +884,7 @@ efbd9365-83c9-4ac5-9514-695f6c3f59ae,deftly.fitness,available,3.48,54.98,medium,
 72546cbc-40ba-44f1-8193-b522d2fa8d54,lumbar.fitness,available,3.48,54.98,high,low,6,namecheap,,,24/08/2026 11:06
 3ebf3a38-ccb9-48e2-81a7-51bd579237c7,spinner.fitness,available,2.79,33.32,high,low,7,spaceship,,,01/10/2026 03:50
 097172a5-b97b-4482-bc09-56442cf6fc41,skater.fitness,available,2.79,33.32,high,low,6,spaceship,,,01/10/2026 03:43
+719b6a5e-8d97-462c-87fb-2c27260bda0f,laborers.fitness,available,8.5,,medium,low,8,unstoppable,,,02/10/2026 03:32
 0b6fb560-2ba7-4dfc-94cb-434c052b6599,evasion.fitness,available,32.2,32.2,high,low,7,cloudflare,,,29/09/2026 18:40
 443c15bd-3e03-40bb-9ee7-12541b81d3d9,needfully.fitness,available,3.48,54.98,medium,low,9,namecheap,,,15/09/2026 16:20
 5782e11b-9ec6-4128-9c1a-867fed9336b8,agonus.fitness,available,3.48,54.98,medium,low,6,namecheap,,,17/09/2026 18:59
@@ -870,6 +910,7 @@ da215f6d-ef0a-4750-89e2-da852d4073d2,rethink.fitness,premium,78.54,78.54,high,lo
 49459b6c-d12c-4879-8818-bd196f13b187,wales.fitness,premium,68.51,68.51,high,low,5,spaceship,,,29/09/2026 06:12
 7c05e6c3-cdda-41a1-ae2f-9b39893518fb,chamfer.fitness,available,8.99,41.99,medium,low,7,namesilo,,,23/09/2026 12:00
 7b2df15e-a575-4763-a006-022f687bb877,skirt.fitness,available,2.79,33.32,high,low,5,spaceship,,,29/09/2026 03:43
+3b0974fc-a4d3-4e89-82ad-bd30435f99de,galois.fitness,available,8.99,41.99,medium,low,6,namesilo,,,02/10/2026 04:45
 5db71151-d6e5-418a-88fa-413026dc2cb9,aragonite.fitness,available,8.99,41.99,medium,low,9,namesilo,,,19/09/2026 23:43
 6d052469-31ca-4526-99dd-73619e5e1b95,runyon.fitness,available,8.99,41.99,medium,low,6,namesilo,,,18/09/2026 06:27
 642bfcb4-8109-48b0-8ba9-2a8be662fb7f,unwritten.fitness,available,3.48,54.98,high,low,9,namecheap,,,04/09/2026 17:17
@@ -920,12 +961,14 @@ b7f3e42f-9927-45d0-8ffd-41444312ddb2,rum.fitness,premium,78.54,78.54,high,low,3,
 ed0a8885-3a4b-4452-90dc-cf63959d96c8,correctly.fitness,available,3.48,54.98,high,low,9,namecheap,,,13/09/2026 20:47
 5f000d21-760c-491f-b5ca-3bd261e37c11,nora.fitness,available,8.99,41.99,high,low,4,namesilo,,,25/09/2026 14:35
 ad8a3024-cf08-4619-8763-ea97c6e37de5,configured.fitness,available,3.48,54.98,high,low,10,namecheap,,,12/08/2026 20:47
+3f1aa8e3-1bba-4bed-ad90-87029f55e27e,dave.fitness,resell,,,high,medium,4,,,,02/10/2026 01:18
 30788f6d-b0ef-4fd3-94c4-2c0517c6e775,bagley.fitness,available,3.48,54.98,medium,low,6,namecheap,,,29/09/2026 22:22
 2f373a76-cf24-4124-b1ad-53982626e629,imperative.fitness,available,3.48,54.98,high,low,10,namecheap,,,08/09/2026 04:44
 c4662113-bd8d-4960-ad24-4a27aaa00183,painted.fitness,available,3.48,54.98,high,low,7,namecheap,,,25/09/2026 23:19
 499afd6d-6671-4c0d-9139-bf9b5ab112ff,meaning.fitness,available,3.48,54.98,high,low,7,namecheap,,,25/09/2026 18:26
 c057b4b4-4401-4d49-8415-9273356a579d,jockey.fitness,available,8.99,41.99,high,low,6,namesilo,,,24/09/2026 14:26
 be80a1f6-d1e9-4d07-b3d0-28f7c5a1fe99,corn.fitness,available,32.2,32.2,high,low,4,cloudflare,,,29/09/2026 09:54
+5169fd92-08ff-4a5a-83bb-c0c9fbd121f8,tamworth.fitness,premium,34.36,34.36,medium,low,8,spaceship,,,01/10/2026 23:32
 92e5e549-a2e1-4aea-a2d2-690d6cf03efe,elegantly.fitness,available,3.48,54.98,medium,low,9,namecheap,,,14/09/2026 15:17
 0c295d58-a6de-451a-b175-683108404f1c,reservoir.fitness,available,3.48,54.98,high,low,9,namecheap,,,20/09/2026 11:41
 61106ad6-703a-4893-a053-196f840420c6,workout.fitness,premium,242,242,high,low,7,namesilo,,,29/09/2026 18:33
@@ -941,7 +984,7 @@ c96b7292-808a-4241-8312-7b1014037149,deceitful.fitness,available,3.48,54.98,medi
 8e120cdc-2eb7-4e2b-a805-8e2269a1e636,aggregate.fitness,available,3.48,54.98,high,low,9,namecheap,,,
 453652bb-1b6a-4db3-a87b-486fd946e299,refugees.fitness,available,8.5,,low,low,8,unstoppable,,,29/09/2026 05:48
 589fc030-362d-4b1f-bda6-880932bb132b,feeder.fitness,available,3.48,54.98,high,low,6,namecheap,,,12/08/2026 21:09
-8706c2e8-9a9d-4938-ab3b-545db18aee6a,clinical.fitness,available,8.99,41.99,high,low,8,namesilo,,,28/09/2026 12:54
+8706c2e8-9a9d-4938-ab3b-545db18aee6a,clinical.fitness,available,32.2,32.2,high,low,8,cloudflare,,,01/10/2026 21:10
 e3ef7707-05cf-48e3-94a7-e04040a355df,supernal.fitness,available,3.48,54.98,medium,low,8,namecheap,,,11/09/2026 02:23
 74a287d6-9594-48b2-b8d4-38f24967de23,diseases.fitness,available,8.99,41.99,low,low,8,namesilo,,,17/09/2026 16:41
 80d3ba50-d477-4346-a28c-38c24a25d3f4,fulfilling.fitness,available,32.2,32.2,high,low,10,cloudflare,,,29/09/2026 21:22
@@ -956,46 +999,3 @@ c76c027f-e4d7-42d1-a3c1-d95c68538e95,disaster.fitness,available,8.99,41.99,high,
 df1a0eaf-5f81-41b7-aa6f-873705cdf51c,hackneyed.fitness,available,3.48,54.98,medium,low,9,namecheap,,,08/08/2026 10:56
 ba2d8280-bc01-4862-a76c-bd7ff3db3153,burns.fitness,available,8.99,41.99,high,low,5,namesilo,,,25/09/2026 03:46
 2af2e29d-32e4-448b-95c7-8c2acbf19780,troika.fitness,available,3.48,54.98,high,low,6,namecheap,,,
-2251190a-ec14-46b3-bbf7-c1b64c195a16,acinonyx.fitness,available,8.99,41.99,medium,low,8,namesilo,,,17/09/2026 01:31
-5779c33c-f68c-4881-95bd-8a92c2a3c554,fowl.fitness,available,8.5,,high,low,4,unstoppable,,,30/09/2026 17:01
-5429e94d-9874-4190-a3d4-6a5c0a1a1cd3,chandler.fitness,available,32.2,32.2,high,low,8,cloudflare,,,30/09/2026 01:02
-436561e8-3b71-4c9e-a559-f0075c762adc,boyfriend.fitness,available,8.99,41.99,high,low,9,namesilo,,,22/09/2026 21:55
-753b7e01-ad42-4287-baac-103ce4e7290c,multiphase.fitness,available,3.48,54.98,medium,low,10,namecheap,,,03/09/2026 10:50
-eb750582-7edc-4615-a94a-c8c0a2d3df2c,cassel.fitness,available,8.99,41.99,high,low,6,namesilo,,,30/09/2026 13:49
-209ee315-3052-4a49-ad5f-d65ed9507774,placate.fitness,available,3.48,54.98,high,low,7,namecheap,,,18/08/2026 22:12
-d515e8ca-925f-46ac-9ef4-997a1c81ce4f,mislaid.fitness,available,3.48,54.98,medium,low,7,namecheap,,,25/08/2026 01:30
-2894ca94-ddfa-4a3e-9328-525ffed659cf,methuen.fitness,available,32.2,32.2,medium,low,7,cloudflare,,,30/09/2026 14:06
-7d780102-5b5e-412b-99d7-6121690f87fe,sandwiches.fitness,available,8.99,41.99,medium,low,10,namesilo,,,28/09/2026 13:26
-46c56d9d-3ccc-4351-b611-0432d5654581,lithesome.fitness,available,3.48,54.98,medium,low,9,namecheap,,,24/08/2026 01:12
-0b7fb5a7-6f12-4d60-bc6f-fdc5e2cb7d17,commission.fitness,available,2.79,33.32,high,low,10,spaceship,,,29/09/2026 10:22
-63829814-e00b-47f7-8f1c-9c4ef2c53a80,birthright.fitness,available,3.48,54.98,high,low,10,namecheap,,,23/09/2026 21:20
-e3b47630-8c7c-4a64-bea3-ed6e68ec7ac1,wrestling.fitness,premium,118.8,118.8,high,low,9,namesilo,,,29/09/2026 21:30
-e9d12eb3-514f-427c-8d2a-d5fbd2126962,covariant.fitness,available,3.48,54.98,medium,low,9,namecheap,,,13/08/2026 04:05
-43093799-2d8a-47b8-b9f7-031283543c59,maude.fitness,available,8.99,41.99,medium,low,5,namesilo,,,28/09/2026 12:05
-1dce09dc-6852-4d83-9ab9-981ed838f89b,basically.fitness,available,8.5,,medium,low,9,unstoppable,,,28/09/2026 13:22
-5970ec7e-51b2-4033-84bd-e80bdf854fc4,veterinary.fitness,available,3.48,54.98,high,low,10,namecheap,,,13/09/2026 05:00
-eebff429-83eb-4a4a-831b-7ec0d856b235,synthesized.fitness,available,3.48,54.98,medium,low,11,namecheap,,,17/09/2026 19:35
-1948cfb7-a8fa-4543-b231-320fb305daef,desalination.fitness,available,2.79,33.32,high,low,12,spaceship,,,30/09/2026 06:33
-3b58e075-125a-4d3f-a98a-5512b9f30e88,weathered.fitness,available,3.48,54.98,high,low,9,namecheap,,,13/09/2026 09:21
-f9e26b11-9abb-49d6-9bf1-ce1c429e463a,coequal.fitness,available,3.48,54.98,medium,low,7,namecheap,,,12/08/2026 15:22
-7bd6742d-2adf-4599-b05b-9ffbaba3bf42,rickety.fitness,available,9.99,52.99,medium,low,7,name.com,,,13/08/2026 20:34
-392fdaac-1e4f-4f83-befd-f184a247c692,cleveland.fitness,premium,118.8,118.8,high,low,9,namesilo,,,29/09/2026 10:02
-dd0da85b-cae5-4190-af50-950034e0d34f,zambian.fitness,premium,38.94,38.94,high,low,7,namesilo,,,13/09/2026 15:05
-4c53b61b-9b39-4fa0-90e6-0e36901d97e9,angel.fitness,resell,,,high,medium,5,"Sav.com, LLC - 20",14/08/2026 15:15,14/08/2027 15:15,28/09/2026 21:23
-95f62b0b-051e-4937-bedf-01b6ee21596d,tanker.fitness,available,32.2,32.2,high,low,6,cloudflare,,,29/09/2026 07:46
-22872833-ce02-45da-99c7-f4509356787d,irons.fitness,available,2.79,33.32,medium,low,5,spaceship,,,29/09/2026 07:52
-4770b651-88ef-4746-aa6e-5536e47aaaa3,hoping.fitness,available,8.99,41.99,high,low,6,namesilo,,,25/09/2026 11:50
-65a99c5e-75ba-453e-af44-5813ebc41948,inhabit.fitness,available,3.48,54.98,high,low,7,namecheap,,,24/08/2026 07:51
-49d95b9f-d8ad-4c03-9eaa-79269014725b,nutrient.fitness,available,3.48,54.98,high,low,8,namecheap,,,08/09/2026 11:42
-a5fca582-2f9d-4f97-9a70-b94ddccc6ddf,doric.fitness,available,3.48,54.98,medium,low,5,namecheap,,,14/08/2026 16:13
-7dd824f5-c3d1-4088-8d53-beeab5204193,inflected.fitness,available,3.48,54.98,medium,low,9,namecheap,,,22/08/2026 04:31
-1d29dd19-ff72-45e5-94f9-b2f2d6347c15,scheduled.fitness,available,8.99,41.99,high,low,9,namesilo,,,27/09/2026 18:26
-f745f0e0-ce92-4290-bf7d-70385919a0a6,cues.fitness,available,2.79,33.32,medium,low,4,spaceship,,,01/10/2026 00:54
-97499227-f768-42a9-aa12-54373475a06f,loaded.fitness,available,,,high,low,6,,,,
-59b9b0be-8544-4891-ad75-dbe75cc61142,racer.fitness,available,3.48,54.98,high,low,5,namecheap,,,21/09/2026 07:11
-81bc3f0a-d009-4720-bb5c-eccd3071779b,enatic.fitness,available,3.48,54.98,medium,low,6,namecheap,,,16/08/2026 21:20
-1a6e0ab6-60d0-4809-bad1-990b01d585de,rimbaud.fitness,available,8.99,41.99,medium,low,7,namesilo,,,20/09/2026 11:03
-6b0df172-15c8-4958-9a59-2f1007bcfbfb,adjacency.fitness,available,8.99,41.99,high,low,9,namesilo,,,17/09/2026 08:24
-50dce93f-822a-4d9f-b4d0-c49e8b5bcae0,connective.fitness,available,3.48,54.98,high,low,10,namecheap,,,12/08/2026 22:16
-4a0b6146-d20c-4e4a-b1c9-dc5d0edd71a1,marlowe.fitness,available,32.2,32.2,medium,low,7,cloudflare,,,28/09/2026 18:43
-044c281f-65a2-4e2b-85a2-09b3cf7d562c,platter.fitness,available,8.5,,high,low,7,unstoppable,,,29/09/2026 15:14
